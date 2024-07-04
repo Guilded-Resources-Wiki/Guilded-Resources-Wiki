@@ -21,7 +21,7 @@ const config = {
 	onBrokenMarkdownLinks: 'warn',
 	favicon: 'img/favicon.ico',
 	organizationName: 'Guilded-Resources-Wiki',
-	projectName: 'guilded-resources-wiki.github.io',
+	projectName: 'Guilded-Resources-Wiki',
 	trailingSlash: false,
 
 	i18n: {
@@ -31,6 +31,12 @@ const config = {
 
 	presets: [
 		[
+			'@docusaurus/preset-classic',
+      {
+        gtag: {
+          trackingID: 'G-E8CWQTXX3F',
+          anonymizeIP: true,
+        },
 			'@docusaurus/preset-classic',
 			/** @type {import('@docusaurus/preset-classic').Options} */
 			({
