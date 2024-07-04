@@ -4,7 +4,7 @@ sidebar_position: 3
 description: Official contacts from Guilded.
 ---
 
-# Official Forms
+# Official Contacts
 
 ## Support
 
