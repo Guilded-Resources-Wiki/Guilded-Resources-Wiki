@@ -73,7 +73,7 @@ const config = {
 				},
 				{
 					name: 'theme-color',
-					content: '#C272CC',
+					content: '#F5C400',
 				},
 				{
 					name: 'twitter:card',
@@ -128,7 +128,7 @@ const config = {
 				appId: 'LERFWVNJO4',
 
 				// Public API key: it is safe to commit it
-				apiKey: '04be95df71409026f44a4db9bcf3b82c',
+				apiKey: '8f01b5759992e05740049a0a66fb8562',
 
 				indexName: 'guildedresourceswiki',
 			},
