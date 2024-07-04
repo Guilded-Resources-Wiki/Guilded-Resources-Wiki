@@ -21,7 +21,7 @@ const config = {
 	onBrokenMarkdownLinks: 'warn',
 	favicon: 'img/favicon.ico',
 	organizationName: 'Guilded-Resources-Wiki',
-	projectName: 'Guilded-Resources-Wiki',
+	projectName: 'guilded-resources-wiki.github.io',
 
 	i18n: {
 		defaultLocale: "en",
