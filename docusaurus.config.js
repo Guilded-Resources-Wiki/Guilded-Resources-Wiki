@@ -125,12 +125,12 @@ const config = {
 			},
 			algolia: {
 				// The application ID provided by Algolia
-				appId: 'KO08RT1BUB',
+				appId: 'LERFWVNJO4',
 
 				// Public API key: it is safe to commit it
-				apiKey: '90b11a8ac9c24d6fc6aa7aa88c159215',
+				apiKey: '04be95df71409026f44a4db9bcf3b82c',
 
-				indexName: 'discordresources',
+				indexName: 'guildedresourceswiki',
 			},
 		}),
 };
