@@ -16,7 +16,7 @@ const config = {
 	tagline:
 		'A list of tons of useful guilded resources and utilities for all types of users, from beginners to power users.',
 	url: 'https://guilded.botlist.xyz',
-	baseUrl: '/',
+	baseUrl: '/Guilded-Resources-Wiki/',
 	onBrokenLinks: 'throw',
 	onBrokenMarkdownLinks: 'warn',
 	favicon: 'img/favicon.ico',
