@@ -34,6 +34,10 @@ const config = {
 			'@docusaurus/preset-classic',
 			/** @type {import('@docusaurus/preset-classic').Options} */
 			({
+				gtag: {
+         				 trackingID: 'G-999X9XX9XX',
+         				 anonymizeIP: true,
+       			 },
 				docs: {
 					sidebarPath: require.resolve('./sidebars.js'),
 					editUrl: 'https://github.com/Guilded-Resources-Wiki/Guilded-Resources-Wiki/edit/main/',
@@ -59,12 +63,6 @@ const config = {
 					],
 				},
 			}),
-			'@docusaurus/preset-classic',
-      {
-        gtag: {
-          trackingID: 'G-E8CWQTXX3F',
-          anonymizeIP: true,
-        },
 		],
 	],
 
