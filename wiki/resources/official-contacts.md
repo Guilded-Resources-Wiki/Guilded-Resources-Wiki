@@ -19,4 +19,4 @@ description: Official contacts from Guilded.
 ## Partners
 
 > **Description:** For existing, former, or prospective Guilded Partners, please feel free to contact us at this email address for any partnership-related questions or assistance.   <br/>
-**Link:** [Discord TnS](mailto:partners@guilded.gg?subject=Partners)
+**Link:** [Guilded Partners](mailto:partners@guilded.gg?subject=Partners)
