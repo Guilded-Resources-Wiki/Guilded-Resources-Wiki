@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Constantly updated list of the most useful Discord Resources.
+  Constantly updated list of the most useful Guilded Resources.
 </p>
 
 ## Guilded Resources Wiki
