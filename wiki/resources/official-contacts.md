@@ -9,7 +9,7 @@ description: Official contacts from Guilded.
 ## Support
 
 > **Description:** Need help? Submit a request to the Guilded team.   <br/>
-**Link:**  [Guilded Support](mailto:support@guilded.gg?subject=Support Request)
+**Link:**  [Guilded Support](mailto:support@guilded.gg?subject=SupportRequest)
 
 ## Feedback
 
