@@ -86,9 +86,9 @@ const config = {
 				respectPrefersColorScheme: true,
 			},
 			navbar: {
-				title: 'Discord Resources',
+				title: 'Guilded Resources Wiki',
 				logo: {
-					alt: 'Discord Resources Logo',
+					alt: 'Guilded Resources Wiki Logo',
 					src: 'img/logo-small.png',
 					href: '/',
 				},
