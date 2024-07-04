@@ -22,6 +22,7 @@ const config = {
 	favicon: 'img/favicon.ico',
 	organizationName: 'Guilded-Resources-Wiki',
 	projectName: 'guilded-resources-wiki.github.io',
+	trailingSlash: false,
 
 	i18n: {
 		defaultLocale: "en",
