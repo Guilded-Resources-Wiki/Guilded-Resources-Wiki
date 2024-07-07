@@ -108,6 +108,18 @@ Guilded flairs are epic-looking achievements to make your profile look cool. The
         <td>✅</td>
         <td>...</td>
     </tr>
+    <tr>
+        <td>Swords</td>
+        <td><img width="60" heigth="60" src="/img/swords.png"></img></td>
+        <td>❌</td>
+        <td>Given to the servers of the teams participating in the tournaments</td>
+    </tr>
+    <tr>
+        <td>Medal</td>
+        <td><img width="60" heigth="60" src="/img/medal.png"></img></td>
+        <td>❌</td>
+        <td>Awarded to the servers of the winning teams in the tournaments</td>
+    </tr>
 
 </table>
 
