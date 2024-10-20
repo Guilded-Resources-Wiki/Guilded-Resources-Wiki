@@ -1,0 +1,10 @@
+{
+  "version.label": {
+    "message": "Sıradaki",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Resources": {
+    "message": "Kaynaklar",
+    "description": "The label for category Resources in sidebar tutorialSidebar"
+  }
+}
